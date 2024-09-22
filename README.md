@@ -23,6 +23,7 @@ They are mostly in Danish, otherwise it's specified 😉
 * [Tjek dit net](https://tjekditnet.dk) _Compare internet providers_
 * [Elpris](https://elpris.dk) _Compare electricity prices_
 
+
 ### Public Holidays
 
 In Denmark, there are several public holidays during the first half of the year. While your company may not observe all of them, I strongly advise enabling the "Holidays in Denmark" public calendar on Google Calendar. For larger shops and chains, I recommended to check the company's website for accurate information, as the opening hours on Google Maps may not always be up to date.
@@ -39,7 +40,7 @@ In Denmark, there are several public holidays during the first half of the year.
 * [Min Sundhed](https://www.sundhed.dk/borger/guides/apps-i-sundhedsvaesenet/apps-fra-sundhedsvaesenet-borger/) ([App Store](https://apps.apple.com/dk/app/minsundhed-dk/id1453504446?l=da) / [Play Store](https://play.google.com/store/apps/details?id=dk.sundhed.minsundhed))
 * [Sundhedskort](https://www.borger.dk/sundhed-og-sygdom/sygesikring-og-laegevalg/sundhedskort-app) ([App Store](https://apps.apple.com/dk/app/sundhedskortet/id1553871328) / [Play Store](https://play.google.com/store/apps/details?id=dk.digst.hc)) _Your Yellow Card, or Sundhedskort, on your mobile phone_
 * [DOT Tickets](https://dinoffentligetransport.dk/tourist/tickets/) ([App Store](https://apps.apple.com/gb/app/dot-tickets/id582247244) / [Play Store](https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb))
-* [Min Strøm](https://minstroem.app/) ([App Store](https://apps.apple.com/dk/app/min-str%C3%B8m/id1615436711)) _Electricity prices_
+* [Min Strøm](https://minstroem.app/) ([App Store](https://apps.apple.com/dk/app/min-str%C3%B8m/id1615436711)) [Billigt Strom](https://play.google.com/store/apps/details?id=billigt.stroem.app&utm_source=website&pli=1) _Electricity prices_
 * [BetalingsService](https://www.betalingsservice.dk/privat) ([App Store](https://itunes.apple.com/dk/app/betalingsservice/id1061617309?l=da&mt=8) / [Play Store](https://play.google.com/store/apps/details?id=com.nets.betalingsservice)) _Keep track of your automatic and recurring payments_
 * [Skatteguiden](https://www.skatteguiden.dk/) ([App Store](https://apps.apple.com/dk/app/skatteguiden/id1521428782) / [Play Store](https://play.google.com/store/apps/details?id=dk.skatteguiden.mobileapp)) _Easy way to update skat.dk_
 
