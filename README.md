@@ -275,4 +275,4 @@ It's not over yet. It became a new trend for every building or construction site
 * [Pronunciation](https://duda.dk/video/dansk/udtale/)
 * [Danish Here and Now, _Dansk Her og Nu_](https://danskherognu.dk/)
 * [How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)
-* [[UCPlus](https://ucplusdansk.dk/)]
+* [UCPlus](https://ucplusdansk.dk/)]
