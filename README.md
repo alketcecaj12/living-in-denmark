@@ -277,8 +277,11 @@ It's not over yet. It became a new trend for every building or construction site
 * [Danish Here and Now, _Dansk Her og Nu_](https://danskherognu.dk/)
 * [How to be polite](https://www.kbh-sprogcenter.dk/en/blog/polite-in-danish/)
 * [UCPlus](https://ucplusdansk.dk/)
+<<<<<<< HEAD
 
 ## Career or Career Switch 
 
 * [Career](https://www.ug.dk/)
 * more links to come soon. 
+=======
+>>>>>>> f0d9840b3bf3569c38fc462674291844511b265f
